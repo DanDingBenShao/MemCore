@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Models (too large for git)
+models/
+
+# Test artifacts
+test_results/
+test_*.json
+*_report.json
+*_report.html
+*_report.md
+
+# Temp workspaces
+_sim_workspace/
+_test_workspace/
+_workbench/
+
+# Benchmarks (generated)
+_bench_*.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# WorkBuddy platform
+.workbuddy/
+
+# Generated PDFs (rebuild from source)
+MemCore_Paper.pdf
+
+# Debug/temp scripts
+fix_memcore.py
+debug_event.py
+check_embedder.py
+test_bge_debug.py
+test_bge_debug2.py
+test_bge_load.py
+test_debug_recall.py
+test_debug_v2.py
+test_deep_analysis.py
+test_miss_analysis.py
+test_embedder_upgrade.py
+test_embedding.py
+generate_paper_pdf.py
