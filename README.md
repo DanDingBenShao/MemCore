@@ -6,8 +6,8 @@
 
 ## Official First Release
 
-- **Code DOI**: [10.5281/zenodo.20037673](https://doi.org/10.5281/zenodo.20037673)
-- **Whitepaper DOI**: *Coming soon*
+- **Code DOI**: *Waiting for Zenodo archival...*
+- **Whitepaper DOI**: [10.5281/zenodo.20037673](https://doi.org/10.5281/zenodo.20037673)
 
 ---
 
