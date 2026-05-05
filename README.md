@@ -2,6 +2,15 @@
 
 **A Hippocampus-Inspired Cognitive Memory System for AI Agents**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20037673.svg)](https://doi.org/10.5281/zenodo.20037673)
+
+## Official First Release
+
+- **Code DOI**: [10.5281/zenodo.20037673](https://doi.org/10.5281/zenodo.20037673)
+- **Whitepaper DOI**: *Coming soon*
+
+---
+
 MemCore gives AI agents long-term, associative memory — not just a database of vectors, but a cognitive structure that *recalls* through pattern completion, *forgets* through precise metabolic decay, and *organizes* through hippocampus-inspired hierarchical layers.
 
 ---
